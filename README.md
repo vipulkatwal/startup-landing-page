@@ -1,6 +1,6 @@
 # 🚀 Startup Landing Page
 
-![preview](public/screenshot.png)
+![preview](public/preview.png)
 
 
 ## 📝 Project Overview
