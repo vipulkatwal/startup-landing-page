@@ -25,7 +25,7 @@ To run this project on your local environment, follow these steps:
 1. 📦 Clone the repository:
    ```bash
    git clone https://github.com/vipulkatwal/startup-landing-page.git
-   cd startup-landing-page
+   cd startup-landing-page  
    ```
 
 2. 📦 Install dependencies:
